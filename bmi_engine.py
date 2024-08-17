@@ -1,4 +1,4 @@
-__author__ = 'suvasish'
+__author__ = 'SA23091184'
 
 import sys
 from bmi_calculation import Bmi
