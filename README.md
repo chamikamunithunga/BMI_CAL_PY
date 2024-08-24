@@ -31,7 +31,7 @@ BMI=
 Height (m) 
 2
  
-Weight (kg)
+Weight (kg) 
 ​
  
 Imperial Formula:
