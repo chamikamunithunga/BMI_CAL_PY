@@ -16,7 +16,7 @@ Features
 
 User Input: The application prompts the user to input their weight in kilograms and height in meters.
 
-BMI Calculation: The BMI is calculated using the formula:
+BMI Calculation: The BMI is calculated using the formula: 
 
 BMI Calculation:
 Metric Formula: 
