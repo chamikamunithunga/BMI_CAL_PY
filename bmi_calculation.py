@@ -51,6 +51,9 @@ class Bmi:
             weight_in_kg = self.convert.lb_to_kg(weight)
             return weight_in_kg
 
+
+    
+
     def calculate_bmi(self, height, height_unit, weight, weight_unit):
         height_in_meter = self.convert_to_meter(height, height_unit)
         weight_in_kg = self.convert_to_kg(weight, weight_unit)
